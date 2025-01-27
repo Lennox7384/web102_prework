@@ -101,4 +101,4 @@ const template = `
 },
 `
 
-export default games;
+export default games; // Seems to enable importing to another JS file.
