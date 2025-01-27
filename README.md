@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://www.loom.com/share/f2373d4561ac4f4cb7134fe40dac08cc?sid=7c3a2a0d-941c-410a-9493-ff5fe3fc0cb1' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.loom.com/share/f2373d4561ac4f4cb7134fe40dac08cc' title='Video Walkthrough' width='640' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
