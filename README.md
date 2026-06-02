@@ -31,7 +31,7 @@ Video recorded with OBS Studio.
 
 ## Notes
 
-Completed all required challenges 3-7: rendering game cards via a for loop, computing summary stats with reduce, filtering funded/unfunded games, dynamically generating the description with a ternary operator, and displaying the top two most funded games using destructuring and the spread operator.
+Completed all challenges: rendering game cards via a for loop, computing summary stats with reduce, filtering funded/unfunded games, dynamically generating the description with a ternary operator, and displaying the top two most funded games using destructuring and the spread operator.
 
 ## License
 
