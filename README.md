@@ -23,9 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-https://github.com/user-attachments/assets/web102-prework-walkthrough.mp4
-
 [Watch the walkthrough](./web102-prework-walkthrough.mp4)
+
+Also available on Imgur: https://imgur.com/a/C0jU7Pp
 
 Video recorded with OBS Studio.
 
