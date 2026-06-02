@@ -23,18 +23,15 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://github.com/user-attachments/assets/web102-prework-walkthrough.mp4
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+[Watch the walkthrough](./web102-prework-walkthrough.mp4)
+
+Video recorded with OBS Studio.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Completed all required challenges 3-7: rendering game cards via a for loop, computing summary stats with reduce, filtering funded/unfunded games, dynamically generating the description with a ternary operator, and displaying the top two most funded games using destructuring and the spread operator.
 
 ## License
 
